@@ -10,7 +10,7 @@
 <a href="#main">Skip to Main Content</a>
 
 <header>
-  <img src="logo.png" alt="Wunderlust Travel Logo">
+   <img src="images/logo.png" alt="Wunderlust Travel Logo">
   <h1>Wunderlust Travel</h1>
   <p>Let Wunderlust Travel help you plan the trip of your dreams!</p>
 
@@ -29,9 +29,9 @@
   <h2>Majorca</h2>
   <p>Imagine an island with turquoise blue waters, secret coves, soft golden sands, lush green foliage, rugged mountains, picturesque villages and a vibrant capital city. The island and its capital, Palma, are overflowing with character, while its beaches are famous all around the world, making it one of the most sought-after summer destinations.</p>
 
-  <img src="majorca-waves.png" alt="Majorca waves">
-  <img src="majorca-beach.png" alt="Majorca beach">
-  <img src="majorca-cove.png" alt="Majorca cove">
+  <img src="images/majorca-waves.png" alt="Majorca waves">
+  <img src="images/majorca-beach.png" alt="Majorca beach">
+  <img src="images/majorca-cove.png" alt="Majorca cove">
 
   <h2>Plan Your Trip</h2>
 
@@ -92,22 +92,22 @@
   <h2>Testimonials</h2>
 
   <h3>Miranda Blake</h3>
-  <img src="miranda-blake.png" alt="Miranda Blake">
+  <img src="images/miranda-blake.png" alt="Miranda Blake">
   <p>Traveling From: London, England</p>
   <p>“I traveled here for business, but my stay was extended. Now it is my home.”</p>
 
   <h3>Max Winter</h3>
-  <img src="max-winter.png" alt="Max Winter">
+  <img src="images/max-winter.png" alt="Max Winter">
   <p>Traveling From: Berlin, Germany</p>
   <p>“Great escape from my reality. Beautiful sunsets, wonderful people, great beer.”</p>
 
   <h3>Inés Villegoes</h3>
-  <img src="ines-villegoes.png" alt="Inés Villegoes">
+  <img src="images/ines-villegoes.png" alt="Inés Villegoes">
   <p>Traveling From: Barcelona, Spain</p>
   <p>“A very safe environment for all travelers.”</p>
 
   <h3>Carmen Lorenzo</h3>
-  <img src="carmen-lorenzo.png" alt="Carmen Lorenzo">
+  <img src="images/carmen-lorenzo.png" alt="Carmen Lorenzo">
   <p>Traveling From: Madrid, Spain</p>
   <p>“Live, laugh, love-- everything you need in Majorca.”</p>
 
